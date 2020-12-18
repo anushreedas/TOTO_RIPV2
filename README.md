@@ -1,6 +1,5 @@
 # TOTO 2
 Name: Anushree Sitaram Das
-RIT ID: 347006592
 
 Implementation of distance-vector routing protocol - RIPv2. Each pod on
 the network executes RIP to exchange routing information with its neighbors, and based on this
